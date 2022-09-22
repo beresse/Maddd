@@ -1,5 +1,6 @@
 @font-face {
     font-family: Impact;
+    font-weight: 400;
     src: url(../font/Impact-Font/impact.ttf);
 }
 
@@ -10,7 +11,7 @@ body{
 }
 
 #titre {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important; 
+  font-family: Impact, sans-serif; 
   color: white;
   font-style: italic;
   padding-top: 240px;
