@@ -1,5 +1,5 @@
 @font-face {
-    font-family: Impact;
+    font-family: Impact !important;
     font-weight: 400;
     src: url(../font/Impact-Font/impact.ttf);
 }
@@ -11,19 +11,10 @@ body{
 }
 
 #titre {
-  font-family: Impact, sans-serif; 
-  color: white;
-  font-style: italic;
-  padding-top: 240px;
+  padding-top: 300px;
 }
-h1{
-    font-size: 15vw;
-    letter-spacing: -16px;
-
-}
-
 h4{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New' , Courier, monospace !important; 
     color: white;
 }
 
