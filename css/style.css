@@ -7,14 +7,15 @@ body{
   padding-top: 300px;
   max-width: 80%;
 }
+
 h4{
-    marging-top: 32px;
     font-family: 'Courier New' , Courier, monospace !important; 
     color: white;
+    margin-top: 32px;
 }
 
 .contact {
-    font-family:'Courier New' , Courier, monospace !important;
+    font-family: 'Courier New', Courier, monospace;
     color: white;
     text-decoration: none;
     margin-top: 52px;
