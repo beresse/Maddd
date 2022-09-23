@@ -5,7 +5,7 @@ body{
 
 #titre {
   padding-top: 300px;
-  max-width: 80%;
+  max-width: 40%;
 }
 
 h4{
@@ -18,7 +18,7 @@ h4{
     font-family: 'Courier New', Courier, monospace;
     color: white;
     text-decoration: none;
-    margin-top: 52px;
+    margin-top: -7px;
 }
 a{
     color: white;
