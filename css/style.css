@@ -1,24 +1,20 @@
-@font-face {
-    font-family: Impact !important;
-    font-weight: 400;
-    src: url(../font/Impact-Font/impact.ttf);
-}
-
 body{
     background-color: black;
     height: 100%;
-    font: 3vw;
 }
 
 #titre {
   padding-top: 300px;
+  max-width: 80%;
 }
 h4{
+    marging-top: 32px;
     font-family: 'Courier New' , Courier, monospace !important; 
     color: white;
 }
 
 .contact {
+    font-family:'Courier New' , Courier, monospace !important;
     color: white;
     text-decoration: none;
     margin-top: 52px;
